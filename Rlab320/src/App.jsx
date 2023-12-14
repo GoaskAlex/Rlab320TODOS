@@ -18,3 +18,4 @@ function App() {
 
 export default App;
 // When I click on Add, it doesnt push a todo into the array  immediate until another one is added
+//Please Check the read me. Need help
